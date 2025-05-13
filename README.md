@@ -7,5 +7,5 @@
 
 <h3 align="left">Here are some of my personal programming facts</h3>
 
-- My favourite languages: **Java, Python, C, JavaScript and Dart**
-- Some of the technologies that I have used the most: **Svelte, React, Flutter, Node, Flask**
+- My favourite languages: **Java, Python, C, C++, TypeScript and Dart**
+- Some of the technologies that I have used the most: **Svelte, React, Flutter, Node, Flask, Angular**
